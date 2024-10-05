@@ -314,9 +314,10 @@ Used marketplaces: <https://www.tori.fi/>, <https://bbs.io-tech.fi/forums/myydae
 
 Price Comparison: 
 
-Stores: <https://www.rueducommerce.fr/>
+Stores: <https://www.rueducommerce.fr/>, <https://www.materiel.net/>, <https://www.ldlc.com/>, <https://www.topachat.com/accueil/index.php>,
 
-Used marketplaces: 
+Used marketplaces: <leboncoin.fr>, <https://gensdeconfiance.com/fr>,
+
  
 ## [Germany](https://de.pcpartpicker.com/) ✅
 
